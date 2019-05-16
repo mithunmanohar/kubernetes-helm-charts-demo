@@ -21,7 +21,7 @@ helm-kubernates-demo
 ## How to use this repo
 
 - Clone the repo **`git clone https://github.com/mithunmanohar/kubernetes-helm-charts-demo.git`** to your kubernates cluster from cmd
-- **`cd kubernetes-helm-charts-demo.git`**
+- **`cd kubernetes-helm-charts-demo`**
 - Install helm using command **`sh add_helm.sh`**
 - Install the helm chart **`helm install kubernetes-helm-charts-demo.git`**
 - Check the deployed resources using **`helm list`**
