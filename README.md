@@ -1,5 +1,9 @@
 # kubernetes-helm-charts-demo
+
+This repo shows an example of how to install an application on Kubernetes clusters with the Helm Package Manager
+
 ## What is a helm chart ?
+- **Helm** is a **package manager for Kubernetes** that allows developers to easily **configure and deploy** applications on Kubernetes clusters.
 - **Helm** uses a packaging format called **charts**. 
 - A chart is a collection of files that describe a **related set of Kubernetes resources**. 
 - A single chart might be used to deploy something simple, like a memcached pod, or something complex, like a full web app stack with HTTP servers, databases, caches, and so on.
