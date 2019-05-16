@@ -1,0 +1,6 @@
+name: KubeHelmDemo
+version: 1.0.0
+description: Demo of kubernates deployment using helm charts
+maintainers:
+  - name: mithun manohar
+  - email: mithunmanohar@test.com
