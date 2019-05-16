@@ -22,7 +22,7 @@ helm-kubernates-demo
  ```
 
 
-## How to use this repo
+## How to use this repo to set up a simple ngnix server in your kubernetes
 
 - Clone the repo **`git clone https://github.com/mithunmanohar/kubernetes-helm-charts-demo.git`** to your kubernates cluster from cmd
 - **`cd kubernetes-helm-charts-demo`**
